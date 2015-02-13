@@ -34,6 +34,8 @@ void draw() {
 fill(colors[i][0], colors[i][1], colors[i][2]);
 ellipse();}
 
+//array of color[]= myColors, assign them to array
+
 /*a  float: x-coordinate of the ellipse
 b  float: y-coordinate of the ellipse
 c  float: width of the ellipse by default
